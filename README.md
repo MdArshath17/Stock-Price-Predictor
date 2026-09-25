@@ -54,14 +54,23 @@ CSV Results + Prediction Graph
 
 ## Installation
 
-Clone or download the repository.
+Clone the repository:
 
-Install the required Python libraries:
+```bash
+git clone https://github.com/MdArshath17/Stock-Price-Predictor.git
+```
+
+Move into the project folder:
+
+```bash
+cd Stock-Price-Predictor
+```
+
+Install the required libraries:
 
 ```bash
 pip install -r requirements.txt
 ```
-
 ## Usage
 
 Run the program:
